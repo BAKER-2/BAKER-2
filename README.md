@@ -21,6 +21,8 @@
 
 ## 👋 Hi, I’m Baker
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baker-husein/)
+
 I'm a Master’s student in Computer Engineering building end-to-end AI systems—from computer vision pipelines to NLP models, real-time analytics, and intelligent automation tools. I enjoy taking complex technical ideas and turning them into clean, practical, working products.
 
 Right now I’m focused on:
@@ -38,12 +40,12 @@ Right now I’m focused on:
 AI & CV pipeline that converts hand-drawn maps into fully playable Unity levels using U-Net segmentation, synthetic data generation, and procedural instantiation.
 - _Astronomical Object Classifier_
 Machine learning system that classifies SDSS STAR/GALAXY/QSO objects using photometric features, achieving 97% accuracy with ensemble models.
--_ Tweet Moderation (NPL-Based)_
+- _Tweet Moderation (NPL-Based)_
 NLP pipeline for flagging harmful and offensive tweets using preprocessing, perplexity scoring, and downstream classification.
 
 (More projects coming soon)
 
-Tech Stack
+**Tech Stack**
 
 _Languages:_
 
@@ -60,8 +62,3 @@ Unity · Jupyter · Google Colab · Git · GitHub
 _Specialties:_
 
 Computer Vision · NLP · Segmentation · Feature Engineering · Model Evaluation
-
-
-_**Contact**_
-
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baker-husein/)
