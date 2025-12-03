@@ -27,12 +27,12 @@ I'm a Master’s student in Computer Engineering building end-to-end AI systems�
 
 Right now I’m focused on:
 
-- 🧠 AI & ML — CV, NLP, segmentation models, classical ML
-- 🛰️ Computer Vision — U-Net pipelines, mask generation, image processing
-- 🔤 NLP — text classification, moderation models, vectorization
-- ⚡ Systems & Pipelines — end-to-end engineering, JSON workflows, Unity integrations
-- 🎮 Interactive Tech — AI-assisted level generation & game tools
-- 📊 Data Science — supervised classification, clustering, feature selection
+- 🧠 AI & ML, CV, NLP, segmentation models, classical ML
+- 🛰️ Computer Vision, U-Net pipelines, mask generation, image processing
+- 🔤 NLP, text classification, moderation models, vectorization
+- ⚡ Systems & Pipelines,  end-to-end engineering, JSON workflows, Unity integrations
+- 🎮 Interactive Tech, AI-assisted level generation & game tools
+- 📊 Data Science, supervised classification, clustering, feature selection
 
 **What I’ve Built**
 
