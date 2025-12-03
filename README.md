@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**BAKER-2/BAKER-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -37,5 +19,49 @@ Here are some ideas to get you started:
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
+## 👋 Hi, I’m Baker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baker-husein/)
+I'm a Master’s student in Computer Engineering building end-to-end AI systems—from computer vision pipelines to NLP models, real-time analytics, and intelligent automation tools. I enjoy taking complex technical ideas and turning them into clean, practical, working products.
+
+Right now I’m focused on:
+
+- 🧠 AI & ML — CV, NLP, segmentation models, classical ML
+- 🛰️ Computer Vision — U-Net pipelines, mask generation, image processing
+- 🔤 NLP — text classification, moderation models, vectorization
+- ⚡ Systems & Pipelines — end-to-end engineering, JSON workflows, Unity integrations
+- 🎮 Interactive Tech — AI-assisted level generation & game tools
+- 📊 Data Science — supervised classification, clustering, feature selection
+
+**What I’ve Built**
+
+- _Sketch-to-Level Generator_
+AI & CV pipeline that converts hand-drawn maps into fully playable Unity levels using U-Net segmentation, synthetic data generation, and procedural instantiation.
+- _Astronomical Object Classifier_
+Machine learning system that classifies SDSS STAR/GALAXY/QSO objects using photometric features, achieving 97% accuracy with ensemble models.
+-_ Tweet Moderation (NPL-Based)_
+NLP pipeline for flagging harmful and offensive tweets using preprocessing, perplexity scoring, and downstream classification.
+
+(More projects coming soon)
+
+Tech Stack
+
+_Languages:_
+
+Python · C# · Java · C++ · JavaScript
+
+_ML / AI:_
+
+PyTorch · Scikit-Learn · NumPy · OpenCV · Pandas
+
+_Tools:_
+
+Unity · Jupyter · Google Colab · Git · GitHub
+
+_Specialties:_
+
+Computer Vision · NLP · Segmentation · Feature Engineering · Model Evaluation
+
+
+_**Contact**_
+
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baker-husein/)
