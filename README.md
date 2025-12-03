@@ -49,7 +49,7 @@ NLP pipeline for flagging harmful and offensive tweets using preprocessing, perp
 
 _Languages:_
 
-Python · C# · Java · C++ · JavaScript
+Python · C# · C++
 
 _ML / AI:_
 
