@@ -23,7 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baker-husein/)
 
-I'm a Master’s student in Computer Engineering building end-to-end AI systems—from computer vision pipelines to NLP models, real-time analytics, and intelligent automation tools. I enjoy taking complex technical ideas and turning them into clean, practical, working products.
+I'm a Computer Engineering specialist building end-to-end AI systems—from computer vision pipelines to NLP models, real-time analytics, and intelligent automation tools. I enjoy taking complex technical ideas and turning them into clean, practical, working products.
 
 Right now I’m focused on:
 
