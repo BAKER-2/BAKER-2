@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### 🧩 About Me
+### About Me
 
 I’m a **Computer Engineer** focused on building **end-to-end AI systems** — from data processing and model training to deployment, demos, and real-world integration.
 
@@ -40,7 +40,7 @@ I enjoy turning complex technical ideas into **clean, practical products**.
 
 ---
 
-### 🚀 What I’ve Built
+### What I’ve Built
 
 #### 🔹 Sketch-to-Level Generator
 AI & computer vision pipeline that converts **hand-drawn maps** into fully playable **Unity levels** using **U-Net segmentation**, synthetic data generation, and procedural instantiation.
@@ -79,7 +79,7 @@ NLP pipeline for detecting harmful or offensive content using preprocessing, vec
 
 ---
 
-### 🧠 Core Focus Areas
+### Core Focus Areas
 
 - **Machine Learning & AI:** supervised learning, ensembles, evaluation
 - **Computer Vision:** segmentation, mask generation, image processing
@@ -89,4 +89,4 @@ NLP pipeline for detecting harmful or offensive content using preprocessing, vec
 
 ---
 
-⭐ Each repository includes clear documentation, methodology, and results.
+Each repository includes clear documentation, methodology, and results.
