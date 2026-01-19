@@ -32,7 +32,7 @@
 
 ### About Me
 
-I’m a **Computer Engineer** focused on building **end-to-end AI systems** — from data processing and model training to deployment, demos, and real-world integration.
+I’m a **Computer Engineer** focused on building **end-to-end AI systems**, from data processing and model training to deployment, demos, and real-world integration.
 
 My work spans **Computer Vision, NLP, recommender systems, and applied machine learning**, with a strong emphasis on **engineering complete, usable systems**, not just isolated experiments.
 
